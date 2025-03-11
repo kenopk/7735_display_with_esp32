@@ -5,7 +5,7 @@ Image Resizer :[ http://www.faststone.org/FSResizerDow...](https://www.faststone
 LCD image Converter : [https://sourceforge.net/projects/lcd-...](https://sourceforge.net/projects/lcd-image-converter/)
 
 pin 
-cs  -  d15 \n
+cs  -  d15 "\n"
 rs  -  d2
 res  -  d4
 sck  -  d18
