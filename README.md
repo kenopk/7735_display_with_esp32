@@ -4,7 +4,10 @@ Image Resizer :[ http://www.faststone.org/FSResizerDow...](https://www.faststone
 
 LCD image Converter : [https://sourceforge.net/projects/lcd-...](https://sourceforge.net/projects/lcd-image-converter/)
 
-pin 
+
+
+pin
+
 cs  -  d15
 
 rs  -  d2
@@ -23,5 +26,4 @@ gnd  -  gnd
 
 bosrd  -  ESP32 DEV BOARD
 
-dispaly  -  ST7735 LCD 
-            1.77 160(RGB)x128
+dispaly  -  ST7735 LCD 1.77 160(RGB)x128
