@@ -24,6 +24,8 @@ vcc  -  3.3v
 
 gnd  -  gnd
 
-bosrd  -  ESP32 DEV BOARD
+
+
+board  -  ESP32 DEV BOARD
 
 dispaly  -  ST7735 LCD 1.77 160(RGB)x128
