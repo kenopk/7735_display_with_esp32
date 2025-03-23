@@ -4,9 +4,9 @@ Image Resizer : [photo resizing](https://www.faststone.org/FSResizerDownload.htm
 
 LCD image Converter : [coding change](https://sourceforge.net/projects/lcd-image-converter/)
 
-Image Resizer : [photo resizing]([http://www.rinkydinkelectronics.com/_t_doimageconverter565.php](http://www.rinkydinkelectronics.com/t_imageconverter565.php))
+Image Resizer : [photo resizing](http://www.rinkydinkelectronics.com/t_imageconverter565.php)
 
-
+My YouTube channel : [YouTube](https://www.youtube.com/@kenopkgaming5693)
 
 pin
 
