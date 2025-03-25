@@ -8,6 +8,10 @@ Image Resizer : [photo resizing](http://www.rinkydinkelectronics.com/t_imageconv
 
 My YouTube channel : [YouTube](https://www.youtube.com/@kenopkgaming5693)
 
+
+https://www.youtube.com/watch?v=UZ9TMZjepKA&ab_channel=CyberLab
+
+
 pin
 
 cs  -  d15
