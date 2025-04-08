@@ -1,4 +1,4 @@
-# 7735_display_with_esp32
+# 7735_display_with_esp32_with_Adafruit
 
 LCD image Converter : [coding change](https://sourceforge.net/projects/lcd-image-converter/)
 
